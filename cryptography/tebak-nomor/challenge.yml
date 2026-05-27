@@ -1,0 +1,28 @@
+
+name: "Tebak Nomor"
+author: "author 1"
+
+
+category: Crypto
+
+
+description: Emang bisa nebak-nebak gitu ya? (btw stop judol online 2026)
+
+value: 500
+type: dynamic
+
+decay: 450
+
+minimum: 100
+
+flags:
+  - LKS{berarti-sbnrnya-semua-yang-random-itu-ga-sepenuhnya-random}
+tags:
+  - crypto
+
+files:
+  - dist.zip
+
+state: hidden
+
+version: "0.1"

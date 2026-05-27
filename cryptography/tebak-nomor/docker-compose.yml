@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  tebak-nomor:
+    build: .
+    ports:
+      - "9000:9000"
+    restart: unless-stopped
+    environment:
+      - FLAG=LKS{berarti-sbnrnya-semua-yang-random-itu-ga-sepenuhnya-random}
