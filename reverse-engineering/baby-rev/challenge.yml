@@ -1,0 +1,26 @@
+
+name: "Baby Rev"
+author: "author 1"
+
+category: Reverse Engineering
+
+description: Ini cuma baby rev, gampang kan?
+
+value: 500
+type: dynamic
+
+decay: 450
+
+minimum: 100
+
+flags:
+  - LKS{tuh-kan-baby-kan}
+tags:
+  - reverse engineering
+
+files:
+  - chall
+
+state: hidden
+
+version: "0.1"

@@ -1,0 +1,26 @@
+
+name: "Ular"
+author: "author 1"
+
+category: Reverse Engineering
+
+description: Pernah main ular tangga ga apa jaman kalian udah roblox?
+
+value: 500
+type: dynamic
+
+decay: 450
+
+minimum: 100
+
+flags:
+  - LKS{c4c1ng_caci11g_naga_nag4}
+tags:
+  - reverse engineering
+
+files:
+  - chall
+
+state: hidden
+
+version: "0.1"

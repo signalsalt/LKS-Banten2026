@@ -1,0 +1,28 @@
+
+name: "Pramuka Cipher"
+author: "author 1"
+
+
+category: Crypto
+
+
+description: Kalo dulunya pramuka pasti tau ini, wrap jawaban dengan format LKS{flag}
+
+value: 500
+type: dynamic
+
+decay: 450
+
+minimum: 100
+
+flags:
+  - LKS{PR4MUKA-PR4MUKA-PR4J4-MUD4-K4R4NA}
+tags:
+  - crypto
+
+files:
+  - chall.wav
+
+state: hidden
+
+version: "0.1"
